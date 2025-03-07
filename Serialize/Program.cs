@@ -2,6 +2,9 @@
 using Serialize;
 using System.Text.Json;
 
+
+
+
 var weatherForecast = new WeatherForecast
 {
 Date = DateTime.Parse("2019-08-01"),
